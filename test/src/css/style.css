@@ -11,10 +11,7 @@ footer {
   display: block;
 }
 
-@media (max-width: 600px) {
-  #responsive_tipo,
-  #responsive_base {
-    width: 423px;
-    height: 203px;
-  }
+section article img {
+  width:100%;
+  height:auto;
 }
