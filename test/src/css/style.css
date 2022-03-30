@@ -1,0 +1,19 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  text-align: center;
+  font-size: 30px;
+}
+
+#extra {
+  display: block;
+}
+
+@media (max-width: 600px) {
+  #responsive {
+    width: 423px;
+    height: 203px;
+  }
+}
