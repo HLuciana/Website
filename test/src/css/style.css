@@ -12,7 +12,8 @@ footer {
 }
 
 @media (max-width: 600px) {
-  #responsive {
+  #responsive_tipo,
+  #responsive_base {
     width: 423px;
     height: 203px;
   }
