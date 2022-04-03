@@ -1,0 +1,20 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  text-align: center;
+  font-size: 30px;
+  /* margin-bottom: 100px; */
+}
+
+#extra {
+  display: block;
+}
+
+@media (max-width: 600px) {
+  section article img {
+    width: 100%;
+    height: auto;
+  }
+}
