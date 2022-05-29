@@ -1,0 +1,42 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#happylife {
+    text-decoration:none;
+}
+
+#happylife:link {
+    color:black;
+}
+
+#happylife:visited {
+    color:black;
+}
+
+#happylife:hover {
+    color:red;
+}
+
+nav ul li a:hover,
+article a:hover {
+  color: red;
+}
+
+footer {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 100px;
+}
+
+#extra {
+  display: block;
+}
+
+@media (max-width: 600px) {
+  section article img,
+  section article iframe{
+    width: 100%;
+    height: auto;
+  }
+}
